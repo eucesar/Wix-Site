@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my Repositories 🤝</h1>
 <p>
-   <img align="center" alt="Cesar-Java" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+   <img align="center" alt="Cesar-WixSite" height="100" width="60" src="wix.png">
 </p>
 
 > 👨‍💻✍️ - I created a website using 'wix.com' from scratch, learned how to use the tool and then used this tool to create a website for a company 'manufacturing blocks, slabs and hardware IGLESIAS'.
