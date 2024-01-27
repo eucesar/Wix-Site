@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my Repositories 🤝</h1>
 <p>
-   <img align="center" alt="Cesar-WixSite" height="100" width="60" src="wix.png">
+   <img align="center" alt="Cesar-WixSite" height="100" width="100" src="wix.png">
 </p>
 
 > 👨‍💻✍️ - I created a website using 'wix.com' from scratch, learned how to use the tool and then used this tool to create a website for a company 'manufacturing blocks, slabs and hardware IGLESIAS'.
